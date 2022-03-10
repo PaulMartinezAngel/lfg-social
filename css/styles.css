@@ -77,8 +77,12 @@ a, a:hover {
 }
 
 .modal-header {
-    background-color: #2C2F33;
+    background-color: #23272A;
     color: #FFFFFF;
+}
+
+.modal-title {
+    color: #7289DA;
 }
 
 .modal-body {
@@ -92,4 +96,9 @@ a, a:hover {
 
 .social-image {
     background-color: #7289DA;
+}
+
+.card-header {
+    background-color: #23272A;
+    
 }
