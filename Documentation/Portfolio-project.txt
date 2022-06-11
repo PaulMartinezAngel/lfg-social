@@ -1,0 +1,28 @@
+Looking for group social platform
+
+1.Introduction
+	-A brief introdction to your website idea. State the goals of the project.
+		-Create a social platform to find other groups and communities for gaming.
+	-The values/benefits (tangile and intangible) this application can bring to a company/organization/end user.
+		-Users can have a much more optimized experience finding like minded players through filters such as,
+		 Game title, casual or competitive, ideal play hours, time zones, goals, ect.
+		-Additional community based reviews for other players to help with further filtering positive interactions. Either
+		 up and down vote interface, or comments.
+		-Discord integration for easier communication amongst players.
+		-Subscription fee for additional features.
+2.Expected List of Features
+	-A brief list of features that you expect your website to support.
+		-filters for finding players.
+		-community run player reviews.
+		-Forums for disscussions.
+		-Discord implementation.
+		-Subsciption model for primium features (to be detirmined)
+
+3.Market Survey/References
+	-Do a survey of the web to find about five websites similar to yours.
+	-briefly compare/contrast the features of these websites with your idea.
+		-https://gamerlinkapp.com/
+		-https://plink.gg/
+		-https://gametree.me/
+		-https://gyo.gg/
+		-All very similar to what I am envisioning with slight differences and features.
